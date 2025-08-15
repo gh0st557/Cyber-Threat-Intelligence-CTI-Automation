@@ -1,0 +1,1 @@
+print("MISP Collector Placeholder")

@@ -1,0 +1,1 @@
+print("VirusTotal Collector Placeholder")
