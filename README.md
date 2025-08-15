@@ -1,1 +1,3 @@
-# Cyber-Threat-Intelligence-CTI-Automation
+# CTI Automation
+
+Automated Cyber Threat Intelligence Pipeline.
